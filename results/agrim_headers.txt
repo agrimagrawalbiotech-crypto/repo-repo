@@ -1,0 +1,2 @@
+data/NM_001093771.3.fasta:>NM_001093771.3 Homo sapiens thioredoxin reductase 1 (TXNRD1), transcript variant 7, mRNA
+data/NP_001087240.1.fasta:>NP_001087240.1 thioredoxin reductase 1, cytoplasmic isoform 5 [Homo sapiens]

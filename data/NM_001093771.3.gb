@@ -1,0 +1,395 @@
+LOCUS       NM_001093771            3860 bp    mRNA    linear   PRI 20-NOV-2025
+DEFINITION  Homo sapiens thioredoxin reductase 1 (TXNRD1), transcript variant
+            7, mRNA.
+ACCESSION   NM_001093771
+VERSION     NM_001093771.3
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 3860)
+  AUTHORS   Schaffer,L.V., Hu,M., Qian,G., Moon,K.M., Pal,A., Soni,N.,
+            Latham,A.P., Pontano Vaites,L., Tsai,D., Mattson,N.M., Licon,K.,
+            Bachelder,R., Cesnik,A., Gaur,I., Le,T., Leineweber,W., Palar,A.,
+            Pulido,E., Qin,Y., Zhao,X., Churas,C., Lenkiewicz,J., Chen,J.,
+            Ono,K., Pratt,D., Zage,P., Echeverria,I., Sali,A., Harper,J.W.,
+            Gygi,S.P., Foster,L.J., Huttlin,E.L., Lundberg,E. and Ideker,T.
+  TITLE     Multimodal cell maps as a foundation for structural and functional
+            genomics
+  JOURNAL   Nature 642 (8066), 222-231 (2025)
+   PUBMED   40205054
+  REMARK    Erratum:[Nature. 2025 Oct;646(8086):E16. doi:
+            10.1038/s41586-025-09648-x. PMID: 41039152]
+REFERENCE   2  (bases 1 to 3860)
+  AUTHORS   Hsieh,M.S., Ling,H.H., Setiawan,S.A., Hardianti,M.S., Fong,I.H.,
+            Yeh,C.T. and Chen,J.H.
+  TITLE     Therapeutic targeting of thioredoxin reductase 1 causes ferroptosis
+            while potentiating anti-PD-1 efficacy in head and neck cancer
+  JOURNAL   Chem Biol Interact 395, 111004 (2024)
+   PUBMED   38636790
+  REMARK    GeneRIF: Therapeutic targeting of thioredoxin reductase 1 causes
+            ferroptosis while potentiating anti-PD-1 efficacy in head and neck
+            cancer.
+REFERENCE   3  (bases 1 to 3860)
+  AUTHORS   Shen,X., Xia,Y., Lu,H., Zheng,P., Wang,J., Chen,Y., Xu,C., Qiu,C.,
+            Zhang,Y., Xiao,Z., Zou,P., Cui,R. and Ni,D.
+  TITLE     Synergistic targeting of TrxR1 and ATM/AKT pathway in human colon
+            cancer cells
+  JOURNAL   Biomed Pharmacother 174, 116507 (2024)
+   PUBMED   38565059
+  REMARK    GeneRIF: Synergistic targeting of TrxR1 and ATM/AKT pathway in
+            human colon cancer cells.
+REFERENCE   4  (bases 1 to 3860)
+  AUTHORS   Nalvarte,I., Damdimopoulos,A.E., Ruegg,J. and Spyrou,G.
+  TITLE     The expression and activity of thioredoxin reductase 1 splice
+            variants v1 and v2 regulate the expression of genes associated with
+            differentiation and adhesion
+  JOURNAL   Biosci Rep 35 (6), e00269 (2015)
+   PUBMED   26464515
+  REMARK    GeneRIF: TXNRD1_v1 and TXNRD1_v2 have distinct roles in
+            differentiation, possibly by altering the expression of the genes
+            associated with differentiation, and further emphasize the
+            importance in distinguishing each unique action of different TrxR1
+            splice forms
+REFERENCE   5  (bases 1 to 3860)
+  AUTHORS   Dammeyer,P., Damdimopoulos,A.E., Nordman,T., Jimenez,A.,
+            Miranda-Vizuete,A. and Arner,E.S.
+  TITLE     Induction of cell membrane protrusions by the N-terminal
+            glutaredoxin domain of a rare splice variant of human thioredoxin
+            reductase 1
+  JOURNAL   J Biol Chem 283 (5), 2814-2821 (2008)
+   PUBMED   18042542
+  REMARK    GeneRIF: the Grx domain of TXNRD1_v3 localizes first in the
+            emerging cell membrane protrusion and is then followed into the
+            protrusions by actin and subsequently by tubulin
+REFERENCE   6  (bases 1 to 3860)
+  AUTHORS   Gladyshev,V.N., Jeang,K.T. and Stadtman,T.C.
+  TITLE     Selenocysteine, identified as the penultimate C-terminal residue in
+            human T-cell thioredoxin reductase, corresponds to TGA in the human
+            placental gene
+  JOURNAL   Proc Natl Acad Sci U S A 93 (12), 6146-6151 (1996)
+   PUBMED   8650234
+REFERENCE   7  (bases 1 to 3860)
+  AUTHORS   Tamura,T. and Stadtman,T.C.
+  TITLE     A new selenoprotein from human lung adenocarcinoma cells:
+            purification, properties, and thioredoxin reductase activity
+  JOURNAL   Proc Natl Acad Sci U S A 93 (3), 1006-1011 (1996)
+   PUBMED   8577704
+REFERENCE   8  (bases 1 to 3860)
+  AUTHORS   Cha,M.K. and Kim,I.H.
+  TITLE     Thioredoxin-linked peroxidase from human red blood cell: evidence
+            for the existence of thioredoxin and thioredoxin reductase in human
+            red blood cell
+  JOURNAL   Biochem Biophys Res Commun 217 (3), 900-907 (1995)
+   PUBMED   8554614
+REFERENCE   9  (bases 1 to 3860)
+  AUTHORS   Gasdaska,P.Y., Gasdaska,J.R., Cochran,S. and Powis,G.
+  TITLE     Cloning and sequencing of a human thioredoxin reductase
+  JOURNAL   FEBS Lett 373 (1), 5-9 (1995)
+   PUBMED   7589432
+REFERENCE   10 (bases 1 to 3860)
+  AUTHORS   Schallreuter,K.U., Grebe,T., Pittelkow,M.R. and Wood,J.M.
+  TITLE     [3H]-13-cis-retinoic acid covalently binds to thioredoxin reductase
+            in human keratinocytes
+  JOURNAL   Skin Pharmacol 4 (1), 14-20 (1991)
+   PUBMED   2064786
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from DC418649.1, AY057105.1,
+            AK226071.1, BC018122.1 and AI097548.1.
+            This sequence is a reference standard in the RefSeqGene project.
+            
+            On Nov 23, 2018 this sequence version replaced NM_001093771.2.
+            
+            Summary: The protein encoded by this gene belongs to the pyridine
+            nucleotide-disulfide oxidoreductase family, and is a member of the
+            thioredoxin (Trx) system. Three thioredoxin reductase (TrxR)
+            isozymes are found in mammals. TrxRs are selenocysteine-containing
+            flavoenzymes, which reduce thioredoxins, as well as other
+            substrates, and play a key role in redox homoeostasis. This gene
+            encodes an ubiquitously expressed, cytosolic form of TrxR, which
+            functions as a homodimer containing FAD, and selenocysteine (Sec)
+            at the active site. Sec is encoded by UGA codon that normally
+            signals translation termination. The 3' UTRs of selenoprotein mRNAs
+            contain a conserved stem-loop structure, the Sec insertion sequence
+            (SECIS) element, which is necessary for the recognition of UGA as a
+            Sec codon rather than as a stop signal. Alternative splicing,
+            primarily at the 5' end, results in transcript variants encoding
+            same or different isoforms, including a glutaredoxin-containing
+            isoform that is predominantly expressed in testis. [provided by
+            RefSeq, May 2017].
+            
+            Transcript Variant: This variant (7, also known as beta 1)
+            represents use of an alternate upstream promoter, and contains
+            additional exons at the 5' end compared to variant 1. The encoded
+            isoform (5, also known as TXNRD1_v3 or v3) has a longer and
+            distinct N-terminus, resulting from translation initiation at an
+            in-frame upstream start codon, compared to isoform 1. It is
+            predominantly expressed in Leydig cells of testis, and contains an
+            atypical N-terminal glutaredoxin domain, which induces actin and
+            tubulin polymerization, leading to formation of cell membrane
+            protrusions (PMID:18042542).
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: HM005669.1, SRR1803611.267438.1
+                                           [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA1968968, SAMEA2145240
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match              :: ENST00000525566.6/
+                                               ENSP00000434516.1
+            protein contains selenocysteine :: PMID: 7589432, 8650234
+            RefSeq Select criteria          :: based on conservation, longest
+                                               protein
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-24                DC418649.1         1-24
+            25-638              AY057105.1         1-614
+            639-2293            AK226071.1         447-2101
+            2294-3808           BC018122.1         2007-3521
+            3809-3860           AI097548.1         10-61               c
+FEATURES             Location/Qualifiers
+     source          1..3860
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="12"
+                     /map="12q23.3"
+     gene            1..3860
+                     /gene="TXNRD1"
+                     /gene_synonym="GRIM-12; TR; TR1; TRXR1; TXNR; TXNR1"
+                     /note="thioredoxin reductase 1"
+                     /db_xref="GeneID:7296"
+                     /db_xref="HGNC:HGNC:12437"
+                     /db_xref="MIM:601112"
+     exon            1..115
+                     /gene="TXNRD1"
+                     /gene_synonym="GRIM-12; TR; TR1; TRXR1; TXNR; TXNR1"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             25..1974
+                     /gene="TXNRD1"
+                     /gene_synonym="GRIM-12; TR; TR1; TRXR1; TXNR; TXNR1"
+                     /EC_number="1.8.1.9"
+                     /EC_number="1.11.1.2"
+                     /note="UGA stop codon recoded as selenocysteine; isoform 5
+                     is encoded by transcript variant 7; KM-102-derived
+                     reductase-like factor; thioredoxin reductase GRIM-12;
+                     thioredoxin reductase 1, cytoplasmic; oxidoreductase;
+                     thioredoxin reductase TR1; gene associated with retinoic
+                     and IFN-induced mortality 12 protein; selenoprotein
+                     TXNRD1; gene associated with retinoic and
+                     interferon-induced mortality 12 protein; testis tissue
+                     sperm-binding protein Li 46a; peroxidase TXNRD1"
+                     /codon_start=1
+                     /transl_except=(pos:1966..1968,aa:Sec)
+                     /product="thioredoxin reductase 1, cytoplasmic isoform 5"
+                     /protein_id="NP_001087240.1"
+                     /db_xref="CCDS:CCDS53820.1"
+                     /db_xref="GeneID:7296"
+                     /db_xref="HGNC:HGNC:12437"
+                     /db_xref="MIM:601112"
+                     /translation="MGCAEGKAVAAAAPTELQTKGKNGDGRRRSAKDHHPGKTLPENP
+                     AGFTSTATADSRALLQAYIDGHSVVIFSRSTCTRCTEVKKLFKSLCVPYFVLELDQTE
+                     DGRALEGTLSELAAETDLPVVFVKQRKIGGHGPTLKAYQEGRLQKLLKMNGPEDLPKS
+                     YDYDLIIIGGGSGGLAAAKEAAQYGKKVMVLDFVTPTPLGTRWGLGGTCVNVGCIPKK
+                     LMHQAALLGQALQDSRNYGWKVEETVKHDWDRMIEAVQNHIGSLNWGYRVALREKKVV
+                     YENAYGQFIGPHRIKATNNKGKEKIYSAERFLIATGERPRYLGIPGDKEYCISSDDLF
+                     SLPYCPGKTLVVGASYVALECAGFLAGIGLDVTVMVRSILLRGFDQDMANKIGEHMEE
+                     HGIKFIRQFVPIKVEQIEAGTPGRLRVVAQSTNSEEIIEGEYNTVMLAIGRDACTRKI
+                     GLETVGVKINEKTGKIPVTDEEQTNVPYIYAIGDILEDKVELTPVAIQAGRLLAQRLY
+                     AGSTVKCDYENVPTTVFTPLEYGACGLSEEKAVEKFGEENIEVYHSYFWPLEWTIPSR
+                     DNNKCYAKIICNTKDNERVVGFHVLGPNAGEVTQGFAAALKCGLTKKQLDSTIGIHPV
+                     CAEVFTTLSVTKRSGASILQAGCUG"
+     misc_feature    25..171
+                     /gene="TXNRD1"
+                     /gene_synonym="GRIM-12; TR; TR1; TRXR1; TXNR; TXNR1"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q16881.3);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    25..27
+                     /gene="TXNRD1"
+                     /gene_synonym="GRIM-12; TR; TR1; TRXR1; TXNR; TXNR1"
+                     /note="N-acetylmethionine.
+                     /evidence=ECO:0007744|PubMed:19413330,
+                     ECO:0007744|PubMed:22223895; propagated from
+                     UniProtKB/Swiss-Prot (Q16881.3); acetylation site"
+     misc_feature    457..471
+                     /gene="TXNRD1"
+                     /gene_synonym="GRIM-12; TR; TR1; TRXR1; TXNR; TXNR1"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q16881.3);
+                     Region: Required for interaction with ESR1 and ESR2.
+                     /evidence=ECO:0000269|PubMed:15199063"
+     misc_feature    865..867
+                     /gene="TXNRD1"
+                     /gene_synonym="GRIM-12; TR; TR1; TRXR1; TXNR; TXNR1"
+                     /note="Phosphotyrosine.
+                     /evidence=ECO:0007744|PubMed:15592455; propagated from
+                     UniProtKB/Swiss-Prot (Q16881.3); phosphorylation site"
+     misc_feature    1966..1968
+                     /gene="TXNRD1"
+                     /gene_synonym="GRIM-12; TR; TR1; TRXR1; TXNR; TXNR1"
+                     /note="Selenocysteine; other site"
+     exon            116..267
+                     /gene="TXNRD1"
+                     /gene_synonym="GRIM-12; TR; TR1; TRXR1; TXNR; TXNR1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            268..328
+                     /gene="TXNRD1"
+                     /gene_synonym="GRIM-12; TR; TR1; TRXR1; TXNR; TXNR1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            329..438
+                     /gene="TXNRD1"
+                     /gene_synonym="GRIM-12; TR; TR1; TRXR1; TXNR; TXNR1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            439..561
+                     /gene="TXNRD1"
+                     /gene_synonym="GRIM-12; TR; TR1; TRXR1; TXNR; TXNR1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            562..634
+                     /gene="TXNRD1"
+                     /gene_synonym="GRIM-12; TR; TR1; TRXR1; TXNR; TXNR1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            635..754
+                     /gene="TXNRD1"
+                     /gene_synonym="GRIM-12; TR; TR1; TRXR1; TXNR; TXNR1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            755..897
+                     /gene="TXNRD1"
+                     /gene_synonym="GRIM-12; TR; TR1; TRXR1; TXNR; TXNR1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            898..1013
+                     /gene="TXNRD1"
+                     /gene_synonym="GRIM-12; TR; TR1; TRXR1; TXNR; TXNR1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1014..1239
+                     /gene="TXNRD1"
+                     /gene_synonym="GRIM-12; TR; TR1; TRXR1; TXNR; TXNR1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1240..1332
+                     /gene="TXNRD1"
+                     /gene_synonym="GRIM-12; TR; TR1; TRXR1; TXNR; TXNR1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1333..1409
+                     /gene="TXNRD1"
+                     /gene_synonym="GRIM-12; TR; TR1; TRXR1; TXNR; TXNR1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1410..1566
+                     /gene="TXNRD1"
+                     /gene_synonym="GRIM-12; TR; TR1; TRXR1; TXNR; TXNR1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1567..1674
+                     /gene="TXNRD1"
+                     /gene_synonym="GRIM-12; TR; TR1; TRXR1; TXNR; TXNR1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1675..1770
+                     /gene="TXNRD1"
+                     /gene_synonym="GRIM-12; TR; TR1; TRXR1; TXNR; TXNR1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1771..1905
+                     /gene="TXNRD1"
+                     /gene_synonym="GRIM-12; TR; TR1; TRXR1; TXNR; TXNR1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1906..3860
+                     /gene="TXNRD1"
+                     /gene_synonym="GRIM-12; TR; TR1; TRXR1; TXNR; TXNR1"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      2189..2275
+                     /regulatory_class="recoding_stimulatory_region"
+                     /gene="TXNRD1"
+                     /gene_synonym="GRIM-12; TR; TR1; TRXR1; TXNR; TXNR1"
+                     /note="SECIS_element"
+                     /function="essential for recoding UGA to specify
+                     selenocysteine"
+     regulatory      3818..3823
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="TXNRD1"
+                     /gene_synonym="GRIM-12; TR; TR1; TRXR1; TXNR; TXNR1"
+                     /note="hexamer: ATTAAA"
+     regulatory      3831..3836
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="TXNRD1"
+                     /gene_synonym="GRIM-12; TR; TR1; TRXR1; TXNR; TXNR1"
+                     /note="hexamer: AATAAT"
+     polyA_site      3837
+                     /gene="TXNRD1"
+                     /gene_synonym="GRIM-12; TR; TR1; TRXR1; TXNR; TXNR1"
+                     /note="major polyA site"
+     polyA_site      3860
+                     /gene="TXNRD1"
+                     /gene_synonym="GRIM-12; TR; TR1; TRXR1; TXNR; TXNR1"
+ORIGIN      
+        1 agttcccaca gggccttgtg cgacatgggc tgcgccgagg gcaaggcagt ggcggcggcc
+       61 gccccaacgg agctgcagac gaaaggcaag aacggcgatg gccgccgtag gtcagctaaa
+      121 gatcatcacc ctggtaaaac tttgccagag aacccagcag gattcaccag cacggccact
+      181 gcagactcca gagccctgct tcaggcctat atagatggtc actctgtggt catcttcagt
+      241 aggtccacat gcacacgctg tactgaggta aagaagttat ttaaatctct gtgtgttcct
+      301 tattttgtgc ttgaacttga tcaaacagag gacggtcggg ccctggaagg aacgctctcg
+      361 gaattggccg cggaaaccga tctgcccgtt gtgtttgtga aacagagaaa gataggcggc
+      421 catggtccaa ccttgaaggc ttatcaggag ggcagacttc aaaagctact aaaaatgaac
+      481 ggccctgaag atcttcccaa gtcctatgac tatgacctta tcatcattgg aggtggctca
+      541 ggaggtctgg cagctgctaa ggaggcagcc caatatggca agaaggtgat ggtcctggac
+      601 tttgtcactc ccacccctct tggaactaga tggggtctcg gaggaacatg tgtgaatgtg
+      661 ggttgcatac ctaaaaaact gatgcatcaa gcagctttgt taggacaagc cctgcaagac
+      721 tctcgaaatt atggatggaa agtcgaggag acagttaagc atgattggga cagaatgata
+      781 gaagctgtac agaatcacat tggctctttg aattggggct accgagtagc tctgcgggag
+      841 aaaaaagtcg tctatgagaa tgcttatggg caatttattg gtcctcacag gattaaggca
+      901 acaaataata aaggcaaaga aaaaatttat tcagcagaga gatttctcat tgccactggt
+      961 gaaagaccac gttacttggg catccctggt gacaaagaat actgcatcag cagtgatgat
+     1021 cttttctcct tgccttactg cccgggtaag accctggttg ttggagcatc ctatgtcgct
+     1081 ttggagtgcg ctggatttct tgctggtatt ggtttagacg tcactgttat ggttaggtcc
+     1141 attcttctta gaggatttga ccaggacatg gccaacaaaa ttggtgaaca catggaagaa
+     1201 catggcatca agtttataag acagttcgta ccaattaaag ttgaacaaat tgaagcaggg
+     1261 acaccaggcc gactcagagt agtagctcag tccaccaata gtgaggaaat cattgaagga
+     1321 gaatataata cggtgatgct ggcaatagga agagatgctt gcacaagaaa aattggctta
+     1381 gaaaccgtag gggtgaagat aaatgaaaag actggaaaaa tacctgtcac agatgaagaa
+     1441 cagaccaatg tgccttacat ctatgccatt ggcgatatat tggaggataa ggtggagctc
+     1501 accccagttg caatccaggc aggaagattg ctggctcaga ggctctatgc aggttccact
+     1561 gtcaagtgtg actatgaaaa tgttccaacc actgtattta ctcctttgga atatggtgct
+     1621 tgtggccttt ctgaggagaa agctgtggag aagtttgggg aagaaaatat tgaggtttac
+     1681 catagttact tttggccatt ggaatggacg attccgtcaa gagataacaa caaatgttat
+     1741 gcaaaaataa tctgtaatac taaagacaat gaacgtgttg tgggctttca cgtactgggt
+     1801 ccaaatgctg gagaagttac acaaggcttt gcagctgcgc tcaaatgtgg actgaccaaa
+     1861 aagcagctgg acagcacaat tggaatccac cctgtctgtg cagaggtatt cacaacattg
+     1921 tctgtgacca agcgctctgg ggcaagcatc ctccaggctg gctgctgagg ttaagcccca
+     1981 gtgtggatgc tgttgccaag actgcaaacc actggctcgt ttccgtgccc aaatccaagg
+     2041 cgaagttttc tagagggttc ttgggctctt ggcacctgcg tgtcctgtgc ttaccaccgc
+     2101 ccaaggcccc cttggatctc ttggatagga gttggtgaat agaaggcagg cagcatcaca
+     2161 ctggggtcac tgacagactt gaagctgaca tttggcaggg catcgaaggg atgcatccat
+     2221 gaagtcacca gtctcaagcc catgtggtag gcggtgatgg aacaactgtc aaatcagttt
+     2281 tagcatgacc tttccttgtg gattttctta ttctcgttgt caagttttct agggttgaat
+     2341 ttttttcttt tttctccatg gtgttaatga tattagagat gaaaaacgtt agcagttgat
+     2401 ttttgtccaa aagcaagtca tggctagagt atccatgcaa ggtgtcttgt tgcatggaag
+     2461 ggatagtttg gctcccttgg aggctatgta ggcttgtccc gggaaagaga actgtcctgc
+     2521 agctgaaatg gactgttctt tactgacctg ctcagcagtt tcttctctca tatattccca
+     2581 aaacaagtac atctgcgatc aactctagcc aaatttgccc ctgtgtgcta catgatggat
+     2641 gattattatt ttaaggtctg tttaggaagg gaaatggcta cttggccagc cattgcctgg
+     2701 catttggtag tatagtatga ttctcaccat tatttgtcat ggaggcagac atacaccaga
+     2761 aatgggggag aaacagtaca tatctttctg tctttagttt attgtgtgct ggtctaagca
+     2821 agctgagatc atttgcaatg gaaaacacgt aacttgttta aaagtttttc tggtagcttt
+     2881 agctttatgc taaaaaaaat aatgacattg ggtatctatt tctttctaag actacattag
+     2941 taggaaaata agtcttttca tgcttatgat ttagctgttt tgtggtaatt gctttttaaa
+     3001 ggaagttatt aatatcataa gttattatta atattttgaa cacaggtgga tgtgaaggat
+     3061 tttcatttaa aaaccaagtg gttttgactt tttctgttga atgaacaact gtgccttgtg
+     3121 gaatttttgc agaagtgttt atgctttgtt agcatttcaa cttgcattat tataaagagg
+     3181 tattaatgcc tcagttatgt gtttgtcaat gtactggctg aggattctat ctcagctgtc
+     3241 ttttctaact gtgtaggttg agttttgaac acgtgcttgt ggacatcagg cctcctgcca
+     3301 gcagttcttg aagcttcttt ttcattcctg ctactctacc tgtatttctc agttgcagca
+     3361 ctgagtggtc aaaatacatt tctgggccac ctcagggaac ccatgcatct gcctggcatt
+     3421 taggcagcag agcccctgac cgtcccccac agggctctgc ctcacgtcct catctcattt
+     3481 ggctgtgtaa agaaatggga aaagggaaaa ggagagagca attgaggcag ttgaccatat
+     3541 tcagttttat ttatttattt ttaatttgtt tttttctcca agtccaccag tctctgaaat
+     3601 tagaacagta ggcggtatga gataatcagg cctaatcatg ttgtgattct cttttcttag
+     3661 tggagtggaa tgttctatcc ccacaagaag gattatatct tatagacttg tcttgttcag
+     3721 attctgtatt tacccatttt attgaaacat atactaagtt ccatgtattt ttgttacaaa
+     3781 tcttctgaaa aaaaacaaaa caatgtgaaa cattaaaatt aaaaggcatt aataatatcc
+     3841 acgtgtgcct tcttactgaa
+//
+
