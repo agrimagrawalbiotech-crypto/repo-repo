@@ -1,0 +1,2 @@
+NC_012920.1.fasta:>NC_012920.1 Homo sapiens mitochondrion, complete genome
+YP_003024029.1.fasta:>YP_003024029.1 cytochrome c oxidase subunit II (mitochondrion) [Homo sapiens]
